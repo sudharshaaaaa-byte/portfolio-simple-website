@@ -1,2 +1,16 @@
-# portfolio-simple-website
-Hi, I'm Raja Sudharshan, an aspiring web developer passionate about creating simple and attractive websites. 
+# Portfolio Website
+
+A simple personal portfolio website built using HTML and basic CSS.
+
+## Features
+- Home Page
+- Contact Page
+- Responsive layout
+- Clean and simple design
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Purpose
+This project was created to practice the fundamentals of web development and build my first portfolio website.
